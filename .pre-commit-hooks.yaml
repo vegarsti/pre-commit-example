@@ -1,0 +1,5 @@
+- id: foo
+  name: foo
+  entry: foo
+  always_run: true
+  language: python
